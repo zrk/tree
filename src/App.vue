@@ -18,8 +18,8 @@
 
     <hr>
 
-    <TheTree  v-if="variant === '1'"/>
-    <TheTree2 v-if="variant === '2'"/>
+    <TheTree  v-show="variant === '1'"/>
+    <TheTree2 v-show="variant === '2'"/>
   </div>
 </template>
 
