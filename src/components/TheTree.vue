@@ -60,23 +60,4 @@ export default {
 </script>
 
 
-<style scoped>
-.tree {
-  min-width: 450px;
-}
-
-.node {
-  min-width: 0;
-  flex: 1;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  font-size: 14px;
-  padding-right: 8px;
-}
-
-.node__label {
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-</style>
+<style scoped src="./tree.css" />
