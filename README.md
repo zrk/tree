@@ -4,6 +4,9 @@ Using [Element](https://element.eleme.io) UI library.
 
 Tree nodes are lazy populated from flat list: first time expand - the item gets loaded.
 
+## Demo
+https://zrk.github.io/tree/
+
 ## Project setup
 ```
 npm install
