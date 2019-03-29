@@ -2,10 +2,10 @@
 
 Using [Element](https://element.eleme.io) UI library.
 
-####Variant 1:
+#### Variant 1:
 Tree nodes are lazy populated from flat list: first time expand - the item gets loaded.
 
-####Variant 2:
+#### Variant 2:
 Tree is fully populated from flat list at once.
 There is a search.
 
